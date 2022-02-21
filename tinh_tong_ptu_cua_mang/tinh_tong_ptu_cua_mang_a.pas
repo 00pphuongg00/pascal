@@ -1,4 +1,5 @@
 {Copyright by Phuong}
+{Tim tong cua phan tu}
 program Suml;
 uses crt;
 const nmax=100;
