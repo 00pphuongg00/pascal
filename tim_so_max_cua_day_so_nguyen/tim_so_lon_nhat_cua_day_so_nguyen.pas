@@ -1,4 +1,5 @@
 {Copyright by Phuong}
+{Tim so lon nhat cua day so nguyen}
 program TimMax;
 uses crt;
 const Nmax = 250;
