@@ -1,4 +1,4 @@
-(*Mang Hai Chieu*)
+{Mang Hai Chieu}
 {Copyright by Phuong}
 program MangHaiChieu;
 uses crt;
