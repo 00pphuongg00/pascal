@@ -1,4 +1,5 @@
 {Copyright by Phuong}
+{Tim gia tri lon nhat cua mang}
 program MaxElement;
 uses crt;
 const nmax=100;
