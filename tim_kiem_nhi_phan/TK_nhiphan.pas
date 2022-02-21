@@ -1,4 +1,5 @@
 {Copyright by Phuong}
+{Tim kiem nhi phan}
 program TK_nhi_phan;
 uses crt;
 const Nmax = 250;
