@@ -1,4 +1,5 @@
 {Copyright by Phuong}
+{Sap xep day so}
 program sapxep;
 uses crt;
 const Nmax = 250;
